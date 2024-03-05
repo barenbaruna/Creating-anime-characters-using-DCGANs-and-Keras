@@ -72,11 +72,13 @@ To run this project, ensure you have the following libraries installed:
 - Experiment with different hyperparameters and network architectures to achieve desired results.
 - Have fun exploring the fascinating world of generative adversarial networks and anime character creation!
 
-For any inquiries or issues, feel free to contact [barenbarunaharahap](mailto:barenbarunaharahap@gmail.com).
-
 ---
 
 *Disclaimer: This project is for educational purposes only. All anime characters generated are fictional and not associated with any real individuals or entities.*
+
+## 📧 Support
+
+For any questions or issues regarding this project, feel free to contact me at [barenbarunaharahap@gmail.com](mailto:barenbarunaharahap@gmail.com).
 
 ## 🙏 Acknowledgements
 
