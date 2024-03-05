@@ -51,7 +51,7 @@ To run this project, ensure you have the following libraries installed:
 
 3. Select the "GitHub" tab.
 
-4. Paste the GitHub URL of your repository containing the notebook (`anime_character_generation.ipynb`) and press Enter.
+4. Paste the GitHub URL of your repository containing the notebook (`deep_convolutional_generative_adversarial_networks_(dcgans).ipynb`) and press Enter.
 
 5. Select the notebook that appears in the search results.
 
