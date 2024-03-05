@@ -33,8 +33,9 @@ To run this project, ensure you have the following libraries installed:
 ## Usage
 
 1. **Clone the Repository:**
-    `git clone https://github.com/your-username/your-repository.git`
-2.  **Run the Jupyter Notebook:**
+    `git clone [https://github.com/your-username/your-repository.git](https://github.com/barenbaruna/Creating-anime-characters-using-DCGANs-and-Keras.git)`
+2.  **Run the Jupyter Notebook/Collab:**
+3.  
 5. **Follow the Instructions in the Notebook to Train and Generate Anime Characters.**
 
 ## Additional Notes
