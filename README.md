@@ -1,6 +1,19 @@
 # Creating Anime Characters using Deep Convolutional Generative Adversarial Networks (DCGANs) and Keras
+<div align="center">
+  <img src="https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNC0wMzZhLXYuanBn.jpg" width="200px"/>
+</div>
 
-![Anime Characters](https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2pvYjcyNC0wMzZhLXYuanBn.jpg)
+## 📝 Author: 
+This project was authored by:
+- Joseph Santarcangelo
+- Roxanne Li
+- Steve Hord
+- Junxing(J.C.) Chen
+
+## 🚀 Mentee Information
+- **Name:** Baren Baruna Harahap
+- **Program:** MSIB Batch 6 (IBM Advance AI)
+- **Mentor:** Ichsan Takwa
 
 ## Introduction
 
@@ -30,13 +43,28 @@ To run this project, ensure you have the following libraries installed:
 - keras
 - tensorflow
 
-## Usage
+### Using Google Colab
 
-1. **Clone the Repository:**
-    `git clone [https://github.com/your-username/your-repository.git](https://github.com/barenbaruna/Creating-anime-characters-using-DCGANs-and-Keras.git)`
-2.  **Run the Jupyter Notebook/Collab:**
-3.  
-5. **Follow the Instructions in the Notebook to Train and Generate Anime Characters.**
+1. Open Google Colab ([colab.research.google.com](https://colab.research.google.com/)).
+
+2. Click on "File" > "Open notebook".
+
+3. Select the "GitHub" tab.
+
+4. Paste the GitHub URL of your repository containing the notebook (`anime_character_generation.ipynb`) and press Enter.
+
+5. Select the notebook that appears in the search results.
+
+6. Follow the instructions provided in the notebook to train and generate anime characters.
+
+### Using Jupyter Notebook
+
+1. **Clone this Repository:**
+2. **Navigate to the Project Directory:**
+4. **Install Dependencies:**
+5. **Run Jupyter Notebook:**
+6. **Follow the instructions in the notebook to train and generate anime characters.**
+
 
 ## Additional Notes
 
@@ -49,4 +77,8 @@ For any inquiries or issues, feel free to contact [barenbarunaharahap](mailto:ba
 ---
 
 *Disclaimer: This project is for educational purposes only. All anime characters generated are fictional and not associated with any real individuals or entities.*
+
+## 🙏 Acknowledgements
+
+Special thanks to IBM Advance AI @Infinite Learning for providing valuable insights and guidance throughout this course.
 
